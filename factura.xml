@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dte:GTDocumento Version="0.1" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dte:SAT ClaseDocumento="dte">
+		<dte:DTE ID="DatosCertificados">
+			<dte:DatosEmision ID="DatosEmision">
+				<dte:DatosGenerales Tipo="FACT" FechaHoraEmision="2020-11-29T21:11:02" CodigoMoneda="GTQ"/>
+				<dte:Emisor NITEmisor="44653948" NombreEmisor="TEST_APEX" CodigoEstablecimiento="1" NombreComercial="TEST" AfiliacionIVA="GEN">
+					<dte:DireccionEmisor>
+						<dte:Direccion>CALLE 101 CALLE</dte:Direccion>
+						<dte:CodigoPostal>20001</dte:CodigoPostal>
+						<dte:Municipio>Chiquimula</dte:Municipio>
+						<dte:Departamento>Chiquimula</dte:Departamento>
+						<dte:Pais>GT</dte:Pais>
+					</dte:DireccionEmisor>
+				</dte:Emisor>
+				<dte:Receptor NombreReceptor="Vivian Lourdes Oliva Miranda" IDReceptor="41325796">
+					<dte:DireccionReceptor>
+						<dte:Direccion>Quinta calle  Por Banrural</dte:Direccion>
+						<dte:CodigoPostal>19006</dte:CodigoPostal>
+						<dte:Municipio>Usumatlan</dte:Municipio>
+						<dte:Departamento>Zacapa</dte:Departamento>
+						<dte:Pais>GT</dte:Pais>
+					</dte:DireccionReceptor>
+				</dte:Receptor>
+				<dte:Frases>
+					<dte:Frase TipoFrase="1" CodigoEscenario="1"/>
+				</dte:Frases>
+				<dte:Items>
+					<dte:Item NumeroLinea="1" BienOServicio="B">
+						<dte:Cantidad>1</dte:Cantidad>
+						<dte:UnidadMedida>PZA</dte:UnidadMedida>
+						<dte:Descripcion>ARCO SIERRA 12&quot; TRUPER 10230</dte:Descripcion>
+						<dte:PrecioUnitario>105</dte:PrecioUnitario>
+						<dte:Precio>105</dte:Precio>
+						<dte:Descuento>0</dte:Descuento>
+						<dte:Impuestos>
+							<dte:Impuesto>
+								<dte:NombreCorto>IVA</dte:NombreCorto>
+								<dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+								<dte:MontoGravable>93.75</dte:MontoGravable>
+								<dte:MontoImpuesto>11.25</dte:MontoImpuesto>
+							</dte:Impuesto>
+						</dte:Impuestos>
+						<dte:Total>105</dte:Total>
+					</dte:Item>
+				</dte:Items>
+				<dte:Totales>
+					<dte:TotalImpuestos>
+						<dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="11.25"/>
+					</dte:TotalImpuestos>
+					<dte:GranTotal>105.00</dte:GranTotal>
+				</dte:Totales>
+			</dte:DatosEmision>
+		</dte:DTE>
+	</dte:SAT>
+</dte:GTDocumento>

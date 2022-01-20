@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dte:GTAnulacionDocumento xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1">
+	<dte:SAT>
+		<dte:AnulacionDTE ID="DatosCertificados">
+			<dte:DatosGenerales ID="DatosAnulacion" NumeroDocumentoAAnular="C111C747-329E-492F-A982-53930C866C86" NITEmisor="44653948" IDReceptor="5386403" FechaEmisionDocumentoAnular="2020-12-12T08:18:00" FechaHoraAnulacion="2020-12-12T08:12:57" MotivoAnulacion="KICKOFF TEST 09DICIEMBRE2020"/>
+		</dte:AnulacionDTE>
+	</dte:SAT>
+</dte:GTAnulacionDocumento>

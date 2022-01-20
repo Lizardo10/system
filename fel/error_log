@@ -1,0 +1,13 @@
+[01-Nov-2020 23:33:14 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[01-Nov-2020 23:40:49 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[01-Nov-2020 23:42:14 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[26-Nov-2020 20:20:27 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[26-Nov-2020 20:25:57 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[26-Nov-2020 20:28:51 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[26-Nov-2020 20:35:56 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 60
+[27-Nov-2020 15:55:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/desarrollo/public_html/fel/decode.php on line 2
+[27-Nov-2020 15:56:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/desarrollo/public_html/fel/decode.php on line 2
+[27-Nov-2020 15:56:43 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/desarrollo/public_html/fel/decode.php on line 2
+[28-Nov-2020 10:54:28 America/Guatemala] PHP Warning:  curl_setopt() expects exactly 3 parameters, 5 given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 66
+[28-Nov-2020 10:55:55 America/Chicago] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER) in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 66
+[28-Nov-2020 10:56:52 America/Guatemala] PHP Warning:  curl_setopt() expects exactly 3 parameters, 4 given in /home1/desarrollo/public_html/fel/fel_nuevo.php on line 66

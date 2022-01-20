@@ -1,0 +1,2 @@
+[20-Oct-2020 21:56:42 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/factura/fel_nuevo.php on line 60
+[21-Oct-2020 00:33:26 America/Guatemala] PHP Warning:  curl_setopt() expects parameter 2 to be long, string given in /home1/desarrollo/public_html/factura/fel_nuevo.php on line 60

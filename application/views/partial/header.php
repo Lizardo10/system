@@ -195,6 +195,10 @@ if (is_on_demo_host()) { ?>
 <?php } ?>
 </head>
 <body>
+	<div id="preloader" style="display: none">
+<h1>aaa</h1>
+	</div>
+	<div id="contenido">
 	<div class="modal fade hidden-print" id="myModal" tabindex="-1" role="dialog" aria-hidden="true"></div>
 	<div class="modal fade hidden-print" id="myModalDisableClose" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static"></div>
 	

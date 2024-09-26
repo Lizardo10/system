@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 $db['default']['hostname'] = '127.0.0.1';
 $db['default']['dsn'] = '';
-$db['default']['username'] = 'desarrol_solupos';
-$db['default']['password'] = 'D354rr0ll02020++';
-$db['default']['database'] = 'desarrol_solupos';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'solupos2022';
 $db['default']['dbdriver'] = 'mysqli';
-$db['default']['dbprefix'] = 'solupos_';
+$db['default']['dbprefix'] = 'phppos_';
 $db['default']['pconnect'] = FALSE;
 $db['default']['db_debug'] = FALSE;
 $db['default']['cache_on'] = FALSE;
